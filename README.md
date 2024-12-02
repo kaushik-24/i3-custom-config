@@ -1,1 +1,1 @@
-<img src="arch-setup.png">
+<img src="duo-desktop.png">
